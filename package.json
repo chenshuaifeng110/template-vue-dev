@@ -1,8 +1,6 @@
 {
   "name": "vue-todo-list",
   "version": "0.1.0",
-  "repoNameZh": "0.1.0",
-  "repoNameEn": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
